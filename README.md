@@ -14,7 +14,7 @@ Projeto realizado no curso B7Web - Node + TS
 
 
 # #################################################
-# Todos os comandos e configurações utilizadas
+# Todos os comandos e configurações utilizados
    > npm init -y
    > tsc --init
       tsconfig.json
