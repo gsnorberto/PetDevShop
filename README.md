@@ -23,16 +23,16 @@ Projeto realizado no curso B7Web - Node + TS
          > "rootDir": "./src"
          > "moduleResolution": "node"
 
-   # Dependências
+   ### Dependências
    > npm install express mustache-express dotenv
 
-   # Dependências de Dev
+   ### Dependências de Dev
    > npm install --save-dev @types/express @types/mustache-express @types/node
 
-   # Dependências globais (Caso não já tenha instalado)
+   ### Dependências globais (Caso não já tenha instalado)
    > npm install -g nodemon typescript ts-node
 
-   # Atalho para rodar projeto (package.json)
+   ### Atalho para rodar projeto (package.json)
    "scripts": {
       "start-dev": "nodemon -e ts,json,mustache src/server.ts"
    }
